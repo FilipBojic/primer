@@ -1,0 +1,6 @@
+Introduction to Front-end development
+A front-end developer architects and develops client part of website and applications using web technologies
+(languages):
+HTML
+CSS
+JavaScript
